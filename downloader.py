@@ -5,6 +5,7 @@
 # Brief     : Program to download the file given in the URL. 
 #             It will be downloaded in "parts" given in the number 
 #             provided while executing the same in the command line.
+# Date      : 1/10/2020
 # Usage     : ./downloader <URL> -c nThreads
 ##########################################################################
 
